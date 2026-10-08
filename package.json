@@ -1,0 +1,24 @@
+{
+  "name": "gbda414-w5-mobilenet-emoji",
+  "version": "1.0.0",
+  "description": "Create an interactive project that uses the MobileNet image classifier to classify images it receives via webcam input. The project will display an emoji for things that it thinks it sees, and the confidence of the classification will be visualized in some manner.",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhan-york/gbda414-w5-mobilenet-emoji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/davidhan-york/gbda414-w5-mobilenet-emoji/issues"
+  },
+  "homepage": "https://github.com/davidhan-york/gbda414-w5-mobilenet-emoji#readme",
+  "devDependencies": {
+    "@types/p5": "^1.7.7"
+  }
+}
